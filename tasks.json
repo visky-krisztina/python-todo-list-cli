@@ -1,17 +1,6 @@
 [
     {
-        "task_name": "My first task"
-    },
-    {
-        "task_name": "My second task"
-    },
-    {
-        "task_name": "My third task"
-    },
-    {
-        "task_name": "My forth task"
-    },
-    {
-        "task_name": "Buy milk"
+        "task_name": "Buy eggs",
+        "completed": true
     }
 ]
